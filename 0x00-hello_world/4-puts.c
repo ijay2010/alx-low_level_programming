@@ -2,7 +2,7 @@
 
 
 /**
- * main - prints 'Programming is like building a multingual puzzle'
+ * main - prints "Programming is like building a multilingual puzzle"
  *
  * Return: 0
  */
